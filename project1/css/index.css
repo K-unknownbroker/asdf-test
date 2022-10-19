@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+}
+header{
+    display: flex;
+}
+.hamburger {
+    width: 14vw;
+    height: 14vh;
+}
+.circle{
+    background-color: white;
+    width: 5%;
+    height: 5%;
+}
